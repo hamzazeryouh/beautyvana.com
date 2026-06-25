@@ -1,0 +1,6 @@
+{
+  "name": "Beautyvana",
+  "description": "Premium Korean skincare showcase with instant WhatsApp ordering and frosted glass aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
